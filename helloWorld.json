@@ -1,7 +1,7 @@
 {
-  "name": "Pokeshot Autotranslate POC",
-  "title": "Pokeshot Autotranslate App",
-  "description": "Adds Pokeshot Autotranslate support to IBM Connections Homepage",
+  "name": "Hello World",
+  "title": "Hello World",
+  "description": "Hello World",
   "services": [
     "Customizer"
   ],
@@ -12,17 +12,17 @@
           "helloWorld.user.js"
         ],
         "include-repo":{
-          "name": "ibm-connections-translation"
+          "name": "pokeshot-autotrans"
         },
         "cache-headers": {
           "cache-control": "max-age=0"
         }
       },
-      "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865",
-      "name": "Pokeshot Autotranslate Extension",
+      "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac864",
+      "name": "Hello World Extension",
       "type": "com.ibm.customizer.ui",
       "path": "global"
     }
   ],
-  "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac865"
+  "id": "22cbc67a-fdbd-4e33-b3cb-2605216ac864"
 }
